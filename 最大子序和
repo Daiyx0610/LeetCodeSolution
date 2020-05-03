@@ -7,7 +7,7 @@
 	 for(元素类型t 元素变量x : 遍历对象obj){ 
 	   引用了x的java语句; 
 	 }
-   */
+   	*/
 class Solution {
     public int maxSubArray(int[] nums) {
        int ans = nums[0];
